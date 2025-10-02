@@ -1,3 +1,23 @@
+# Generative AI Agents and Automation for Business Professionals
+
+This course is designed to give business professionals a **practical, hands-on introduction to generative AI**.
+
+Over the span of the program, you will explore how AI can streamline workflows, enhance decision-making, and unlock new business opportunities. The focus is not just on theory but on **real-world applications** that you can directly apply to your work.
+
+In the early weeks, you’ll get familiar with **ChatGPT, generative AI platforms, and AI-powered business tools**. As the course progresses, we’ll dive into **no-code automation** using platforms like n8n, and you’ll learn how to **design, build, and deploy AI agents** that integrate with everyday tools such as Gmail, Google Calendar, social media, web search engines, and more.
+
+By the end of the course, you’ll have built several **mini AI projects**, including:
+
+- **AI-powered business advisors**
+- **Customer support chatbots** that can respond to emails using company-specific data
+- **Deep research agents** capable of synthesizing insights from multiple sources
+
+The goal of this course is twofold:
+
+1. To **inspire ideas** about what’s possible with generative AI in business  
+2. To give you the **skills to prototype and deploy AI agents** that bring real value to your organization
+
+
 ### **Day 1: Introduction to Generative AI**
 - Course overview, objectives, and learning path
 - ChatGPT usage and practical applications
@@ -8,7 +28,7 @@
 - **Lab:** Hands-on ChatGPT exploration and prompt experimentation
 
 ### **Day 2: Understanding LLM Models and Economics**
-- ChatGPT model variations: GPT-4o, GPT-4.1, GPT-4o mini
+- ChatGPT model variations: GPT-5, GPT-4.1, GPT-5-mini
 - Token-based pricing: input vs output costs
 - Understanding tools in LLMs and their functions
 - Web search tool integration and capabilities
