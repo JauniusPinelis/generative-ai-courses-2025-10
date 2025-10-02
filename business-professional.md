@@ -64,54 +64,216 @@
 - **Lab:** Upload 3 sample docs and build a mini research notebook: create a comparison table, list key insights with citations, and draft a one-paragraph summary
 
 ### **Day 4: Perplexity for Faster Research**
-- Ask questions and get answers with sources
-- When to use quick answers vs deep research
-- How to read and trust citations
-- Export and share your findings
+- Introduction to Perplexity AI and its Deep Research mode
+- Ask questions and get answers with sources and citations
+- When to use quick answers vs Deep Research (3-minute comprehensive reports)
+- How to read, verify, and trust citations
+- Export and share your findings (PDF, documents, Perplexity Pages)
+- Comparing Perplexity vs NotebookLM vs ChatGPT for research
 - **Lab:** Run the same brief in Perplexity, NotebookLM, and ChatGPT; compare results
 
-## **Week 4: Multimodal AI and Open source**
-    - Nano Banana
-    - Qwen image edit
-    - Chatgpt image generation
-    - video generation with veo2
-    - Running models locally with Ollama
-    - The applications of open-source models
-    - Intro to openrouter.ai LLM store
+---
+
+## **Week 3: ChatGPT Advanced Features**
+
+### **Day 1: ChatGPT Canvas for Document Creation**
+- Introduction to ChatGPT Canvas interface
+- Using Canvas for long-form writing and editing
+- Collaborative document creation with AI
+- Iterative refinement and version control
+- **Lab:** Create a business proposal using Canvas
+
+### **Day 2: ChatGPT Projects for Organization**
+- Understanding ChatGPT Projects feature
+- Organizing conversations by topic or client
+- Custom instructions per project
+- File uploads and context management
+- **Lab:** Set up projects for different business needs
+
+### **Day 3: ChatGPT Voice Mode and Accessibility**
+- Advanced voice mode capabilities
+- Hands-free AI interaction for productivity
+- Voice-to-text workflows
+- Accessibility features for diverse users
+- **Lab:** Use voice mode for meeting preparation
+
+### **Day 4: ChatGPT Search Integration**
+- Understanding ChatGPT Search capabilities
+- Real-time information retrieval
+- Comparing search results with traditional search engines
+- Best practices for search-enabled prompts
+- **Lab:** Conduct research using ChatGPT Search
+
+---
+
+## **Week 4: Multimodal AI and Open Source**
+
+### **Day 1: AI Image Generation**
+- Introduction to ChatGPT image generation (DALL-E 3)
+- Prompt engineering for image creation
+- Business applications: marketing, presentations, social media
+- Understanding image rights and licensing
+- **Lab:** Create branded images for business use with ChatGPT
+
+### **Day 2: Advanced Image Editing**
+- Introduction to Qwen-Image-Edit capabilities
+- AI-powered text rendering in images
+- Product photography editing
+- Object replacement and style transfer
+- **Lab:** Edit product photos using Qwen
+
+### **Day 3: AI Video Generation**
+- State of video generation in 2025
+- Google Veo 2 for 4K video creation
+- OpenAI Sora 2 with audio capabilities
+- Business use cases for AI video
+- **Lab:** Create a promotional video with Veo 2
+
+### **Day 4: Open-Source Models and Local AI**
+- Why open-source matters: privacy and cost
+- Running models locally with Ollama (installation and setup)
+- Popular models: Llama, Gemma, DeepSeek, Phi
+- Applications of open-source models in business
+- Introduction to OpenRouter.ai as an LLM marketplace
+- **Lab:** Install Ollama and run local AI models
 
 
-## **Week 5: Intro to n8n AI automation and AI agents**
-    - Intro to No-code and automation
-    - Intro to n8n
-    - N8n vs Make.com
-    - n8n templates
-    - What is a tool and an AI agent
-    - Build a google calendar agent
-    - Build a gmail agent
-    - Build a simple research agents (web search and email combined)
+## **Week 5: n8n AI Automation and AI Agents**
 
-## **Week 6: Agentic prototyping and AI builder intro**
-    - The advanced in AI in coding
-    - Build your own website with lovable.dev
-    - Portfolio building with lovable.dev
-    - Build AI prototypes with Github copilot.
-    - Intro to MCP
-    - Build a database analyst with streamlit + postgre + postgre-mcp
+### **Day 1: Introduction to No-Code Automation**
+- What is no-code automation and why it matters for business
+- Introduction to n8n platform and capabilities
+- n8n vs Make.com: features, pricing, and use cases
+- Understanding execution-based vs task-based pricing
+- Exploring n8n templates library (600+ community templates)
+- **Lab:** Explore n8n interface and browse templates
 
-## **Week 7: Advanced n8n workflow and Rag intro**
-    - Intro to to retrieval augment generation
-    - Simple RAG implementation with N8N
-    - The challenges of RAG
-    - RAG integration with Pinecone Vector Store.
-    - Build a customer support email agent (Domain knowledge + email answering)
-    - Building a deep research agent (agentic workflow)
+### **Day 2: Understanding Tools and AI Agents**
+- What constitutes a "tool" in Generative AI
+- Difference between AI tools and AI agents
+- Why 2025 is the year of AI agents
+- AI agent architecture and autonomy
+- Business applications of AI agents
+- **Lab:** Design conceptual AI agent workflows
 
-## **Week 8: advanced RAG and project work**
-    - Choosing final project (pick your project to work on)
-    - Advanced RAG applications
-    - Preparing data for RAG
-    - Complex data processing with Mistal OCR
-    - RAG application evaluation.
-    - Final project work and presentation.
+### **Day 3: Building Your First Agents**
+- Setting up n8n (cloud or self-hosted)
+- Understanding workflows, nodes, and triggers
+- Build a Google Calendar agent for scheduling
+- Build a Gmail agent for email automation
+- Connecting agents to AI models
+- **Lab:** Build and test calendar and Gmail agents
+
+### **Day 4: Multi-Agent Systems**
+- Building a research agent (web search + email combined)
+- Coordinating multiple agents in workflows
+- Human-in-the-loop approval steps
+- Error handling and monitoring
+- **Lab:** Create a comprehensive research-to-email agent
+
+## **Week 6: Agentic Prototyping and AI Builders**
+
+### **Day 1: The AI Revolution in Coding**
+- How AI is democratizing software development
+- AI-assisted coding for non-programmers
+- Introduction to "vibe coding" and natural language programming
+- Understanding what's possible without traditional coding
+- **Lab:** Explore AI coding assistants
+
+### **Day 2: Website Building with Lovable.dev**
+- Introduction to Lovable.dev: AI website builder
+- Building complete websites through conversation
+- Understanding generated code (React, Tailwind)
+- Portfolio building and professional sites
+- Deployment and customization
+- **Lab:** Build your own business website with Lovable.dev
+
+### **Day 3: Introduction to Model Context Protocol (MCP)**
+- What is MCP: Anthropic's 2024 breakthrough
+- Why MCP matters: standardizing AI integrations
+- MCP adoption: OpenAI, Google, and ecosystem growth
+- Exploring Smithery.ai MCP marketplace (2,880+ MCPs)
+- Understanding MCP servers and tools
+- **Lab:** Explore MCP tools and capabilities
+
+### **Day 4: Building AI Prototypes**
+- Introduction to Streamlit for rapid prototyping
+- Setting up PostgreSQL database
+- Connecting databases to AI applications
+- Building a database analyst with Streamlit + PostgreSQL + PostgreSQL-MCP
+- **Lab:** Create an interactive database analyst chatbot
+
+## **Week 7: Advanced n8n Workflows and RAG Introduction**
+
+### **Day 1: Introduction to Retrieval Augmented Generation**
+- What is RAG and why it's crucial for business AI (most widely used technique 2025)
+- How RAG makes AI models domain experts
+- RAG vs fine-tuning: when to use each
+- Real-world applications: customer support, HR, legal
+- Understanding the RAG workflow: indexing, retrieval, generation
+- **Lab:** RAG concept demonstrations
+
+### **Day 2: Simple RAG Implementation with n8n**
+- No-code RAG setup using n8n
+- Document processing and chunking basics
+- Connecting knowledge bases to n8n workflows
+- Building a simple RAG chatbot
+- The challenges of RAG: accuracy, context, retrieval quality
+- **Lab:** Create a basic company knowledge base RAG system
+
+### **Day 3: RAG with Pinecone Vector Store**
+- Understanding embeddings and vector databases
+- Introduction to Pinecone: cloud vector database
+- Semantic search vs keyword search
+- Indexing documents in Pinecone
+- Integrating Pinecone with n8n
+- **Lab:** Set up Pinecone and index business documents
+
+### **Day 4: Building Production Agents**
+- Build a customer support email agent (domain knowledge + email answering)
+- Multi-step agentic workflows
+- Building a deep research agent with n8n
+- Citation tracking and source attribution
+- Monitoring and improving agent performance
+- **Lab:** Create a complete customer support agent
+
+## **Week 8: Advanced RAG and Final Projects**
+
+### **Day 1: Advanced RAG Applications**
+- Advanced chunking strategies: semantic, hierarchical, agentic
+- Optimizing embeddings for better accuracy
+- Hybrid search: dense and sparse embeddings
+- Multi-modal RAG: text, images, documents
+- RAG evaluation metrics and testing
+- Cost optimization for production systems
+- **Lab:** Implement advanced RAG techniques
+
+### **Day 2: Data Processing with Mistral OCR**
+- Introduction to Mistral OCR (99%+ accuracy, 11+ languages)
+- Processing complex documents: PDFs, scans, multi-language
+- Extracting tables, images, mathematical expressions
+- Converting documents to AI-ready Markdown
+- Preparing data for RAG systems
+- Use cases: compliance, research digitization, document management
+- **Lab:** Process diverse documents with Mistral OCR
+
+### **Day 3: Final Project Planning**
+- Review of all course technologies and concepts
+- Choosing your final project (business problem to solve)
+- Project planning: scope, requirements, deliverables
+- RAG application evaluation methodologies
+- Architecture design for your solution
+- Timeline and milestones
+- **Lab:** Define and plan your capstone project
+
+### **Day 4: Final Project Presentations**
+- Final project work and presentations
+- Demonstrating your AI solution
+- Peer feedback and discussion
+- Best practices for AI implementation in organizations
+- AI governance and ethics
+- Next steps for continued learning
+- Course wrap-up and Q&A
+- **Lab:** Present your final project
 
 
