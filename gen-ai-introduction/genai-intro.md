@@ -1,4 +1,4 @@
-# Generative AI for beginners
+﻿# Generative AI for beginners
 
 
 
@@ -112,40 +112,97 @@
 
 --------------------------------------------
 
-Week 4 Multimodal AI:
+## **Week 4: Multimodal AI**
 
-Day 1 Real world problem solving with Chatgpt Vision capabilities
+### **Day 1: ChatGPT Vision**
+- OCR, UI, and chart understanding
+- Prompt for structure (lists/JSON)
+- Limits: counting, tiny/rotated text
+- Cost basics: images as tokens
+- **Lab:** Analyze 3 images and refine prompts
 
-Day 2 Image generation and editting with Chatgpt and Qwen-image-edit
+### **Day 2: Image Generation and Editing with ChatGPT & Qwen**
+- gpt-image-1: generate, edit, variations
+- Qwen2-VL: OCR/editing, open/local
+- When to pick which for tasks
+- Prompt patterns: subject, style, negatives
+- **Lab:** Make/edit 3 marketing assets in both
 
-Day 3 Text-to-Audio and voice generation with ElevenLabs.com
+### **Day 3: ElevenLabs Text-to-Speech**
+- TTS, STT, dubbing, cloning
+- Models: v3, Flash, Turbo, Multilingual
+- Controls: stability, style, latency
+- Responsible voice use and deployment
+- **Lab:** Bilingual demo audio + captions
 
-Day 4 Video generation with Sora 2
+### **Day 4: Sora 2 Video**
+- Prompting: subject, motion, camera
+- Features: consistency, remix, auto audio
+- Limits: physics realism, policies
+- Compare with Veo/Kling/Ray
+- **Lab:** Generate a 30s concept and iterate
 
 
-Week 5 Generative AI as technology:
+## **Week 5: Generative AI as Technology**
 
-Day 1 Open source models and run model locally with Ollama
+### **Day 1: Ollama (Local Open-Source Models)**
+- Install and run (`ollama run gemma3`)
+- Catalog: Qwen, Gemma, Llama, DeepSeek
+- Modelfile tweaks, HTTP API (Python/JS)
+- Offline privacy and performance tips
+- **Lab:** Benchmark two local models via API
 
-Day 2 Intro to Openai platform and Google AI studio
+### **Day 2: OpenAI vs Google AI Studio**
+- OpenAI Responses API + tools
+- Gemini 2.5 tiers and Live API
+- Compare pricing/context/safety
+- Cross-platform workflow patterns
+- **Lab:** Same assistant on both; compare
 
-Day 3 Build a website with Lovable.dev
+### **Day 3: Lovable.dev Website**
+- Chat-driven builder and templates
+- Prompted layout/content iterations
+- When to use vs custom code/CMS
+- Publish previews and collect feedback
+- **Lab:** Ship a one-page site
 
-Day 4 Use any model with https://openrouter.ai/
+### **Day 4: OpenRouter (Any Model)**
+- Unified API, routing, fallbacks, ZDR
+- Headers for attribution/provider prefs
+- Streaming, structured outputs, caching
+- When to use vs native APIs
+- **Lab:** Compare two models for one task
 
 
-Week 6 Advanced Generative AI:
+## **Week 6: Advanced Generative AI**
 
-Day 1 Finding the best LLM models for the task, LLM leaderboard analysis 
+### **Day 1: LLM Leaderboards (Picking Models)**
+- Metrics: MMLU, MT-Bench, Arena Elo
+- Caveats: leakage, overfit, reproducibility
+- Map scores to domain/context needs
+- Shortlist by cost/speed/privacy
+- **Lab:** Weighted scorecard for 3 models
 
-Day 2 Staying up to date with LLM news
-    - analysing https://www.deeplearning.ai/the-batch/
-    - https://news.smol.ai/
-    - Reddit singularity
+### **Day 2: Staying Current with AI News**
+- Sources: The Batch, news.smol.ai, official model blogs
+- Cadence: weekly scan, verify claims, track changelogs
+- Tools: RSS/alerts, Perplexity/NotebookLM summaries
+- Categorize updates: safety, capability, tooling, policy
+- **Lab:** Build a personal feed and draft a weekly brief
 
-Day 3 Intro to vibe coding with Github Copilot
+### **Day 3: GitHub Copilot (Vibe Coding)**
+- Inline completions, chat, agent mode in VS Code
+- Set up extension; pick models and custom instructions
+- Add MCP tools for projectâ€‘specific tasks
+- Write tests first, let Copilot implement, then review
+- **Lab:** Implement a small feature + tests with Copilot
 
-Day 4 Build an AI application with OpenAI Codex
+### **Day 4: Build with OpenAI Codex Cloud**
+- Read/modify/run code in cloud environments
+- GitHub integration; ask vs code modes and PR diffs
+- Background tasks and multiâ€‘step assignments
+- Security: MFA/SSO, audit trails for code changes
+- **Lab:** Delegate a feature to Codex and review the PR
 
 ## **Week 7: n8n AI Automation and AI Agents**
 
@@ -180,13 +237,36 @@ Day 4 Build an AI application with OpenAI Codex
 - Error handling and monitoring
 - **Lab:** Create a comprehensive research-to-email agent
 
-## **Week 8: n8n AI Automation in action**
+## **Week 8: n8n AI Automation in Action**
 
-### **Day 1: Intro to RAG 
+### **Day 1: Intro to RAG**
+- Retrieve-then-generate basics (chunks, embeddings, vector store)
+- Retrieval strategies: top-k, filters, reranking
+- When to use RAG vs fine-tuning
+- Grounding answers and citing sources
+- **Lab:** Build a simple RAG flow and query your docs
 
-### **Day 2: Implement a domain expert AI agent **
+### **Day 2: Domain Expert AI Agent**
+- Define scope, tools/connectors, and guardrails
+- Use retrieval/memory for domain grounding
+- Error handling and human-in-the-loop
+- Evaluate answers for accuracy and coverage
+- **Lab:** Implement an expert agent over your docs + web search
 
-### Day 3-4L n8n AI automation project. 
+### **Day 3: n8n Project - Build**
+- Choose use case and success metrics
+- Design workflow: triggers, nodes, approvals
+- Add logging, retries, and error paths
+- Connect to LLM(s) and external APIs
+- **Lab:** Build the initial workflow and dry-run with test data
+
+### **Day 4: n8n Project - Test & Ship**
+- Test cases, rate limits, and costs
+- Monitoring, alerts, and audit trail
+- Secure secrets and permissions
+- Demo and docs for handover
+- **Lab:** Run end-to-end, fix issues, and present results
+
 
 
 
