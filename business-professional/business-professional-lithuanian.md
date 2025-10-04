@@ -150,13 +150,13 @@ Kurso pabaigoje būsite sukūrę keletą **mini DI projektų**, tarp jų:
 - Verslo taikymai kuriant DI vaizdo įrašus
 - **Praktika:** Sukurti reklaminį vaizdo įrašą su Veo 2
 
-### **4 diena: Atvirojo kodo modeliai ir vietinis DI**
-- Kodėl atvirojo kodo sprendimai svarbūs: privatumas ir kaštai
-- Modelių paleidimas lokaliai su Ollama
-- Populiariausi modeliai: Llama, Gemma, DeepSeek, Phi
-- Atvirojo kodo taikymas versle
-- Įvadas į OpenRouter.ai kaip LLM rinką
-- **Praktika:** Įdiegti Ollama ir paleisti vietinius DI modelius
+### **4 diena: Pristatymų kūrimas su Gamma.AI**
+- Gamma.AI apžvalga kaip DI dizaino partnerio pristatymams, dokumentams ir žiniatinklio turiniui
+- Pilnų skaidrių rinkinių generavimas iš užklausų, planų ar importuoto turinio naudojant 20+ DI modelių ir prekės ženklo temas
+- Išmanūs šablonai, išdėstymai, vertimai ir DI kuriami vaizdai skaidrėms tobulinti bendradarbiaujant realiuoju laiku
+- Pristatymas naudojant Gamma pristatymo režimą ir „spotlight“ funkciją istorijų pasakojimui bei pasiruošimui
+- Rinkinių eksportas į PPT, PDF, Google Slides ar dalijimosi nuorodas ir įsitraukimo rodiklių sekimas
+- **Praktika:** Sukurti prekybos pristatymą Gamma aplinkoje iš teksto gairių ir pristatyti jį pristatymo režimu
 
 ---
 

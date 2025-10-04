@@ -149,13 +149,13 @@ The goal of this course is twofold:
 - Business use cases for AI video
 - **Lab:** Create a promotional video with Veo 2
 
-### **Day 4: Open-Source Models and Local AI**
-- Why open-source matters: privacy and cost
-- Running models locally with Ollama (installation and setup)
-- Popular models: Llama, Gemma, DeepSeek, Phi
-- Applications of open-source models in business
-- Introduction to OpenRouter.ai as an LLM marketplace
-- **Lab:** Install Ollama and run local AI models
+### **Day 4: Presentation creation with Gamma.AI**
+- Gamma.AI overview as an AI design partner for presentations, documents, and web content
+- Generating full decks from prompts, outlines, or imported content using 20+ AI models and branded themes
+- Using smart templates, layouts, translations, and AI image generation to refine slides with real-time collaboration
+- Presenting with Gamma's presentation mode and spotlight feature for storytelling and delivery practice
+- Exporting decks to PPT, PDF, Google Slides, or shareable links while tracking engagement metrics
+- **Lab:** Build a sales deck in Gamma from a text brief and deliver it using presentation mode
 
 
 ## **Week 5: n8n AI Automation and AI Agents**
