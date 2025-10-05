@@ -43,16 +43,16 @@ Course goals:
 - Context size constraints and memory limitations
 - **Lab:** Identifying hallucinations and testing model limits
 
-### **Day 4: Mastering Chatgpt use cases**
-    - Information seeking
-    - Web search
-    - Email generation
-    - Post generation
-    - Prompt engineering
-    - Travel planning
-    - Basic document analysis
-    - Document generation
-    - and others.
+### **Day 4: Mastering ChatGPT Use Cases**
+- Information seeking
+- Web search
+- Email generation
+- Post generation
+- Prompt engineering
+- Travel planning
+- Basic document analysis
+- Document generation
+- and others
 - **Lab:** Prompt engineering workshop with real-world scenarios
 
 ---

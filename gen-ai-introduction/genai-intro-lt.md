@@ -44,15 +44,15 @@ Kurso tikslai:
 - **praktinis darbas:** Halucinacijų atpažinimas ir modelio ribų testavimas
 
 ### **Diena 4: Praktiniai ChatGPT naudojimo atvejai**
-    - Informacijos paieška
-    - Žiniatinklio paieška
-    - El. laiškų kūrimas
-    - Įrašų kūrimas
-    - Promptų kūrimas (inžinerija)
-    - Kelionių planavimas
-    - Pagrindinė dokumentų analizė
-    - Dokumentų kūrimas
-    - ir kt.
+- Informacijos paieška
+- Žiniatinklio paieška
+- El. laiškų kūrimas
+- Įrašų kūrimas
+- Promptų kūrimas (inžinerija)
+- Kelionių planavimas
+- Pagrindinė dokumentų analizė
+- Dokumentų kūrimas
+- Kiti naudojimo atvejai
 - **praktinis darbas:** Promptų kūrimo dirbtuvės su realiais scenarijais
 
 ---
@@ -280,7 +280,6 @@ Kurso tikslai:
 - Apsaugokite paslaptis ir teises
 - Demonstracija ir dokumentai perdavimui
 - **praktinis darbas:** Paleiskite nuo pradžios iki pabaigos, sutvarkykite problemas ir pristatykite rezultatus
-
 
 
 
