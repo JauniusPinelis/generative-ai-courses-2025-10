@@ -1,12 +1,16 @@
-# Generative AI for beginners (6 week course)
+﻿# Generative AI for beginners (6 week course)
 
-This course is a practical, hands-on introduction to generative AI for beginners. You learn by doing with small, guided exercises and quick wins. No prior coding is required — everything is explained in plain language and built step by step.
+This course is a practical, hands-on introduction to generative AI for beginners. You'll learn by doing through small, guided exercises that deliver quick wins. No coding required - when we do write code, we rely on AI helpers or no-code tools to keep things simple.
 
-Across the program, you start with ChatGPT basics and the core ideas behind LLMs (what they are, how costs work, and safe usage). Then you explore popular tools for research and documents, try multimodal features (images, audio, video), and build simple, useful things — like a one-page site, a tiny app, and a basic AI agent. Coding is optional; when we do code, we use AI helpers to keep it simple or no-code automation platform.
+We start with ChatGPT basics and core LLM ideas (how models work, costs, and safe use). Then you'll explore popular research and document tools, try multimodal features (images, audio, video), and build simple, useful artifacts - like a one-page site, a tiny app, and a basic AI agent.
+
+Who it's for: learners with no prior AI or programming experience who want practical skills they can use immediately at work.
 
 Course goals:
-1. Demystify generative AI and build confidence through quick wins
-2. Teach core skills: clear prompting, picking models at a glance, verifying outputs, and small automations you can actually use
+1. Build confidence with quick, applied wins.
+2. Master clear prompting and fast model selection.
+3. Practice safe, verifiable workflows (costs, citations, limits).
+4. Ship small automations and assets you can reuse.
 
 ### **Day 1: Introduction to Generative AI**
 - Course overview, objectives, and learning path
@@ -213,4 +217,7 @@ Course goals:
  - Extending Visual Studio Code with Playwright mcp
  and creating a browser testing AI.
  - Plans for future learning and conclusion.
+
+
+
 
